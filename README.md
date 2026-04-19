@@ -1,4 +1,4 @@
-Source code for an Agentic AI framework for colorectal polyp segmentation.
+Source code for a Lightweight Cross-Domain Polyp Segmentation Framework
 
 ## Datasets
 - [Kvasir-SEG](https://datasets.simula.no/kvasir-seg/)
